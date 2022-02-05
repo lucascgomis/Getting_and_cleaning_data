@@ -4,7 +4,7 @@ This  github repository contains the files with regards to the final poject of t
 
 ## Data
 ### Download:
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip', './data/getdata_projectfiles_UCI HAR Dataset.zip
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip'
 ### Original Source:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
